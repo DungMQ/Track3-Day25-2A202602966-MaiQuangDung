@@ -1,10 +1,12 @@
 # Lab 25B — Report
 
-**Họ tên / nhóm:** Mai Quang Dũng — **MSV:** 2A202602966  
-**Commit:** 74f423651bc8cc962ada0f29be7252d2ff8d409c  
+**Họ tên / nhóm:** Mai Quang Dũng — **MSV:** 2A202602966
+
+**Commit:** 4cd5b805e1bd168952bc472838a63fc47db3edaf
+
 **Điểm tự động (`make grade`):** 84 / 88; 4 điểm SLO ẩn do giảng viên chấm. **Report:** chấm tay / 12.
 
-Commit trên xác định phiên bản mã nguồn đã kiểm thử; báo cáo và các artifact được lưu trong commit tài liệu tiếp theo. Số liệu trong các bảng dùng seed 25. Kiểm tra thêm với seeds 25, 26, 27 đều PASS các băng public, workflow và cache; xem [scoreboard_multiseed.json](scoreboard_multiseed.json). Không có dữ liệu ẩn nên không tự nhận đủ 88 điểm hay bảo đảm kết quả trên băng ẩn.
+Commit trên là snapshot bài nộp gồm mã nguồn, báo cáo và toàn bộ artifact; commit tiếp theo chỉ cập nhật tham chiếu hash này trong báo cáo. Số liệu trong các bảng dùng seed 25. Kiểm tra thêm với seeds 25, 26, 27 đều PASS các băng public, workflow và cache; xem [scoreboard_multiseed.json](scoreboard_multiseed.json). Không có dữ liệu ẩn nên không tự nhận đủ 88 điểm hay bảo đảm kết quả trên băng ẩn.
 
 Đã hoàn thành các file của Part A, B, C, D, E, G và chỉ tinh chỉnh khối `client:` / `cache:`. Giữ nguyên simulator, baseline, dịch vụ, bộ test và hai file băng sự cố theo quy tắc đề.
 
